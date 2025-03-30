@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八維/內傾實感 Si.md",
+                "file": "八維/外傾思維 Te.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "內傾實感 Si"
+              "title": "外傾思維 Te"
             }
           }
         ]
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八維/內傾實感 Si.md",
+                "file": "八維/外傾思維 Te.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 內傾實感 Si"
+              "title": "Backlinks for 外傾思維 Te"
             }
           },
           {
@@ -147,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八維/內傾實感 Si.md",
+                "file": "八維/外傾思維 Te.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 內傾實感 Si"
+              "title": "Outgoing links from 外傾思維 Te"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八維/內傾實感 Si.md",
+                "file": "八維/外傾思維 Te.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 內傾實感 Si"
+              "title": "Outline of 外傾思維 Te"
             }
           }
         ]
@@ -205,11 +205,11 @@
   "active": "94f5cc5d49c4b5b9",
   "lastOpenFiles": [
     "16P/INTP.md",
+    "八維/內傾實感 Si.md",
     "八維/外傾直覺 Ne.md",
     "八維/內傾思維 Ti.md",
     "外傾情感 Fex.md",
     "八維/外傾情感 Fe.md",
-    "八維/內傾實感 Si.md",
     "八維/外傾思維 Te.md",
     "八維/外傾實感 Se.md",
     "八維/內傾情感 Fi.md",
