@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "八維/外傾情感 Fe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "外傾情感 Fe"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "八維/外傾情感 Fe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 外傾情感 Fe"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "八維/外傾情感 Fe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 外傾情感 Fe"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "八維/外傾情感 Fe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 外傾情感 Fe"
             }
           }
         ]
@@ -186,6 +186,17 @@
   },
   "active": "178269fc9e484dbb",
   "lastOpenFiles": [
-    "Welcome.md"
+    "八維/外傾實感 Se.md",
+    "八維/外傾情感 Fe.md",
+    "八維/外傾思維 Te.md",
+    "八維/外傾直覺 Ne.md",
+    "八維/內傾實感 Si.md",
+    "八維/內傾情感 Fi.md",
+    "八維/內傾思維 Ti.md",
+    "八維/內傾直覺 Ni.md",
+    "16P/INTP.md",
+    "Welcome.md",
+    "16P",
+    "八維"
   ]
 }
