@@ -1,0 +1,19 @@
+
+| MBTI | 第一功能<br>主导 | 第二功能<br>辅助 | 第三功能<br>采狗 | 第四功能<br>劣势 | 第五功能<br>防御 | 第六功能<br>批评 | 第七功能<br>盲点 | 第八功能<br>魔鬼 |
+| ---- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| INFJ | Ni         | Fe         | Ti         | Se         | Ne         | Fi         | Te         | Si         |
+| INFP | Fi         | Ne         | Si         | Te         | Fe         | Ni         | Se         | Ti         |
+| ENFJ | Fe         | Ni         | Se         | Ti         | Fi         | Ne         | Si         | Te         |
+| ENFP | Ne         | Fi         | Te         | Si         | Ni         | Fe         | Ti         | Se         |
+| INTJ | Ni         | Te         | Fi         | Se         | Ne         | Ti         | Fe         | Si         |
+| INTP | Ti         | Ne         | Si         | Fe         | Te         | Ni         | Se         | Fi         |
+| ENTJ | Te         | Ni         | Se         | Fi         | Ti         | Ne         | Si         | Fe         |
+| ENTP | Ne         | Ti         | Fe         | Si         | Ni         | Te         | Fi         | Se         |
+| ISFP | Fi         | Se         | Ni         | Te         | Fe         | Si         | Ne         | Ti         |
+| ISTP | Ti         | Se         | Ni         | Fe         | Te         | Si         | Ne         | Fi         |
+| ESFP | Se         | Fi         | Te         | Ni         | Si         | Fe         | Ti         | Ne         |
+| ESTP | Se         | Ti         | Fe         | Ni         | Si         | Te         | Fi         | Ne         |
+| ISFJ | Si         | Fe         | Ti         | Ne         | Se         | Fi         | Te         | Ni         |
+| ISTJ | Si         | Te         | Fi         | Ne         | Se         | Ti         | Fe         | Ni         |
+| ESFJ | Fe         | Si         | Ne         | Ti         | Fi         | Se         | Ni         | Te         |
+| ESTJ | Te         | Si         | Ne         | Fi         | Ti         | Se         | Ni         | Fe         |
