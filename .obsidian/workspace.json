@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八維/內傾思維 Ti.md",
+                "file": "16P/INTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "內傾思維 Ti"
+              "title": "INTP"
+            }
+          },
+          {
+            "id": "15a8de0e37d9969e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "八維/外傾情感 Fe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "外傾情感 Fe"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "MBTI vs 榮格八维"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f2dd5da8f7d6aa6d",
@@ -124,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八維/內傾思維 Ti.md",
+                "file": "八維/外傾情感 Fe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 內傾思維 Ti"
+              "title": "Backlinks for 外傾情感 Fe"
             }
           },
           {
@@ -143,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八維/內傾思維 Ti.md",
+                "file": "八維/外傾情感 Fe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 內傾思維 Ti"
+              "title": "Outgoing links from 外傾情感 Fe"
             }
           },
           {
@@ -172,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八維/內傾思維 Ti.md",
+                "file": "八維/外傾情感 Fe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 內傾思維 Ti"
+              "title": "Outline of 外傾情感 Fe"
             }
           }
         ]
@@ -198,18 +213,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "178269fc9e484dbb",
+  "active": "15a8de0e37d9969e",
   "lastOpenFiles": [
-    "八維/外傾直覺 Ne.md",
-    "八維/內傾思維 Ti.md",
-    "八維/外傾思維 Te.md",
-    "八維/外傾情感 Fe.md",
-    "八維/外傾實感 Se.md",
-    "八維/內傾直覺 Ni.md",
-    "MBTI vs 榮格八维.md",
-    "八維/內傾實感 Si.md",
     "八維/內傾情感 Fi.md",
+    "八維/外傾情感 Fe.md",
+    "八維/外傾思維 Te.md",
+    "八維/外傾直覺 Ne.md",
+    "八維/內傾實感 Si.md",
+    "八維/內傾思維 Ti.md",
+    "八維/內傾直覺 Ni.md",
+    "八維/外傾實感 Se.md",
     "16P/INTP.md",
+    "MBTI vs 榮格八维.md",
     "Welcome.md",
     "16P",
     "八維"
